@@ -1,15 +1,15 @@
 # 🎩 CoCo: Code as CoT for Text-to-Image Preview and Rare Concept Generation
 
-Official repository for the paper "[CoCo: CoCo as CoT for Text-to-Image Preview and Rare Concept Generation](https://arxiv.org)".
+Official repository for the paper "[CoCo: CoCo as CoT for Text-to-Image Preview and Rare Concept Generation](https://arxiv.org/abs/2603.08652)".
 
-[[📖 Paper](https://arxiv.org)] [[🤗 Model](https://huggingface.co/mickyhimself/CoCo)]
+[[📖 Paper](https://arxiv.org/abs/2603.08652)] [[🤗 Model](https://huggingface.co/mickyhimself/CoCo)]
 
 <p align="center">
     <img src="figs/pipeline.png" width="100%"> <br>
 </p>
 
 ## 💥 News
-- **[2026.3.09]** We release the [arxiv paper](https://huggingface.co/mickyhimself/CoCo). Code is coming soon. 🔥
+- **[2026.3.09]** We release the [arxiv paper](https://arxiv.org/abs/2603.08652). Code is coming soon. 🔥
 
 ## 🪄 Draft Before Generation
 
