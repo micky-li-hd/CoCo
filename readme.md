@@ -1,6 +1,6 @@
 # 🎩 CoCo: Code as CoT for Text-to-Image Preview and Rare Concept Generation
 
-Official repository for the paper "[CoCo: CoCo as CoT for Text-to-Image Preview and Rare Concept Generation](https://arxiv.org/abs/2603.08652)".
+Official repository for the paper "[CoCo: Code as CoT for Text-to-Image Preview and Rare Concept Generation](https://arxiv.org/abs/2603.08652)".
 
 [[📖 Paper](https://arxiv.org/abs/2603.08652)] [[🤗 Model](https://huggingface.co/mickyhimself/CoCo)]
 
