@@ -9,7 +9,7 @@ Official repository for the paper "[CoCo: Code as CoT for Text-to-Image Preview 
 </p>
 
 ## 💥 News
-- **[2026.3.09]** We release the [arxiv paper](https://arxiv.org/abs/2603.08652). Code is coming soon. 🔥
+- **[2026.3.09]** We release the [arxiv paper](https://arxiv.org/abs/2603.08652). 
 
 ## 🪄 Draft Before Generation
 
