@@ -1,3 +1,4 @@
+# ECCV 2026
 # 🎩 CoCo: Code as CoT for Text-to-Image Preview and Rare Concept Generation
 
 Official repository for the paper "[CoCo: Code as CoT for Text-to-Image Preview and Rare Concept Generation](https://arxiv.org/abs/2603.08652)".
